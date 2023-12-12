@@ -1,0 +1,23 @@
+name: tryingolok
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  flut_grouped_buttons: ^0.0.9
+  cupertino_icons: ^1.0.6
+  material_text_fields:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  #flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
